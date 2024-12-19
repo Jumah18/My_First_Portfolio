@@ -1,4 +1,5 @@
 body {
+    background-color: antiquewhite;
     display: flex;
     flex-direction: column;
 }
@@ -17,4 +18,8 @@ article {
 aside {
     flex: 1;
     overflow-y: auto;
+}
+
+#li {
+    list-style: none;
 }
